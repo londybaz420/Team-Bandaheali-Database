@@ -44,5 +44,6 @@
   "MODE": "public",
   "BOTMODE": "button",
   "PUBLIC_MODE": "true",
-  "ALWAYS_ONLINE": "false"
+  "ALWAYS_ONLINE": "false",
+  "prefix": "?"
 }
