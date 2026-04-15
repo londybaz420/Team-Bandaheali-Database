@@ -7,7 +7,7 @@
   "AUTO_STATUS_REACT": "true",
   "AUTO_STATUS_MSG": "*SEEN YOUR STATUS EDITH-MD*",
   "AUTO_STATUS_REACT_EMOJIS": "💝,💖,💗,❤️,🧡,💛,💚,💙",
-  "PREFIX": ".",
+  "PREFIX": "null",
   "BOT_NAME": "Edith-MD",
   "DESCRIPTION": "*© POWERED BY BANDAHEALI*",
   "STICKER_NAME": "Edith-MD",
