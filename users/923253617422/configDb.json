@@ -27,7 +27,7 @@
   "WELCOME": "false",
   "ADMIN_EVENTS": "false",
   "ANTI_DELETE": "true",
-  "ANTI_DEL_PATH": "inbox",
+  "ANTI_DEL_PATH": "same",
   "ANTI_EDIT": "true",
   "ANTI_EDIT_PATH": "same",
   "ANTI_LINK": "true",
