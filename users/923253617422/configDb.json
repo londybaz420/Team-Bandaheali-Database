@@ -17,7 +17,7 @@
   "DEV": "923253617422",
   "ADMINS_USE": true,
   "AUTO_REACT": "false",
-  "CUSTOM_REACT": "true",
+  "CUSTOM_REACT": "false",
   "CUSTOM_REACT_EMOJIS": "😋,😌,😚,😙,😘",
   "READ_MESSAGE": "false",
   "MENTION_REPLY": "false",
