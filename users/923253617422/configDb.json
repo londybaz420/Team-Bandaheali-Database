@@ -40,7 +40,7 @@
   "DELETE_LINKS": "false",
   "AUTO_STICKER": "false",
   "AUTO_RECORDING": "false",
-  "AUTO_DOWNLOAD": "false",
+  "AUTO_DOWNLOAD": "true",
   "MODE": "public",
   "BOTMODE": "button",
   "PUBLIC_MODE": "true",
