@@ -41,7 +41,7 @@
   "AUTO_STICKER": "false",
   "AUTO_RECORDING": "false",
   "AUTO_DOWNLOAD": "true",
-  "MODE": "public",
+  "MODE": "private",
   "BOTMODE": "button",
   "PUBLIC_MODE": "true",
   "ALWAYS_ONLINE": "false",
