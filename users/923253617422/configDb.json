@@ -33,7 +33,7 @@
   "ANTI_LINK": "true",
   "ANTI_LINK_ACTION": "warn",
   "ANTI_MEDIA": "false",
-  "ANTI_BAD": "false",
+  "ANTI_BAD": "true",
   "ANTI_VV": "false",
   "ANTI_CALL": "false",
   "REJECT_MSG": "*_SOORY MY BOSS IS BUSY PLEASE DONT CALL ME_*",
