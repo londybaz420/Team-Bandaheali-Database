@@ -31,7 +31,7 @@
   "ANTI_EDIT": "true",
   "ANTI_EDIT_PATH": "same",
   "ANTI_LINK": "true",
-  "ANTI_LINK_ACTION": "warn",
+  "ANTI_LINK_ACTION": "delete",
   "ANTI_MEDIA": "false",
   "ANTI_BAD": "true",
   "ANTI_VV": "false",
