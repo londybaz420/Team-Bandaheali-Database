@@ -26,7 +26,7 @@
   "CUSTOM_REACT": "false",
   "CUSTOM_REACT_EMOJIS": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
   "READ_MESSAGE": "false",
-  "MENTION_REPLY": "false",
+  "MENTION_REPLY": "true",
   "AUTO_TYPING": "false",
   "READ_CMD": "false",
   "WELCOME": "true",
