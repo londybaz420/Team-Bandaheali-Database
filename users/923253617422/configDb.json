@@ -46,5 +46,8 @@
   "PUBLIC_MODE": "true",
   "ALWAYS_ONLINE": "false",
   "prefix": "null",
-  "ANTI_PROMOTE": "true"
+  "ANTI_PROMOTE": "true",
+  "SUDOS": [
+    "923253617422"
+  ]
 }
