@@ -48,7 +48,7 @@
   "DELETE_LINKS": "false",
   "AUTO_RECORDING": "false",
   "AUTO_DOWNLOAD": "false",
-  "MODE": "private",
+  "MODE": "public",
   "BOTMODE": "button",
   "PUBLIC_MODE": "true",
   "ALWAYS_ONLINE": "false",
