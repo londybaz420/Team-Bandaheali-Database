@@ -52,5 +52,5 @@
   "BOTMODE": "button",
   "PUBLIC_MODE": "true",
   "ALWAYS_ONLINE": "false",
-  "prefix": "null"
+  "prefix": "*"
 }
