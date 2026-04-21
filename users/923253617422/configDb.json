@@ -26,7 +26,7 @@
   "READ_CMD": "false",
   "WELCOME": "false",
   "ADMIN_EVENTS": "true",
-  "ANTI_DELETE": "false",
+  "ANTI_DELETE": "true",
   "ANTI_DEL_PATH": "same",
   "ANTI_EDIT": "true",
   "ANTI_EDIT_PATH": "same",
