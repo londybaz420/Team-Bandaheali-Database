@@ -24,7 +24,7 @@
   "AUTO_REPLY": "false",
   "AUTO_TYPING": "false",
   "READ_CMD": "false",
-  "WELCOME": "true",
+  "WELCOME": "false",
   "ADMIN_EVENTS": "true",
   "ANTI_DELETE": "true",
   "ANTI_DEL_PATH": "same",
