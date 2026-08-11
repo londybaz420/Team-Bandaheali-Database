@@ -50,5 +50,5 @@
   "AUTO_DOWNLOAD": "false",
   "MODE": "public",
   "ALWAYS_ONLINE": "false",
-  "prefix": "#"
+  "prefix": "."
 }
