@@ -39,7 +39,7 @@
   "ANTI_FORIGN_NUMBER": "880,91",
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
-  "ANTI_LINK_ACTION": "warn",
+  "ANTI_LINK_ACTION": "kick",
   "ANTI_MEDIA": "false",
   "ANTI_VV": "false",
   "ANTI_CALL": "false",
