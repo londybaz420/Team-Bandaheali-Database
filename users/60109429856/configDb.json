@@ -21,7 +21,7 @@
     "923029450054"
   ],
   "AUTO_REACT": "false",
-  "CUSTOM_REACT": "false",
+  "CUSTOM_REACT": "true",
   "CUSTOM_REACT_EMOJIS": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
   "READ_MESSAGE": "false",
   "MENTION_REPLY": "false",
