@@ -46,7 +46,7 @@
   "REJECT_MSG": "*_SOORY MY BOSS IS BUSY PLEASE DONT CALL ME_*",
   "DELETE_LINKS": "false",
   "AUTO_STICKER": "true",
-  "AUTO_RECORDING": "false",
+  "AUTO_RECORDING": "true",
   "AUTO_DOWNLOAD": "false",
   "MODE": "public",
   "ALWAYS_ONLINE": "false"
