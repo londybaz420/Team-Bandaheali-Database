@@ -26,7 +26,7 @@
   "READ_MESSAGE": "false",
   "MENTION_REPLY": "false",
   "AUTO_REPLY": "false",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "READ_CMD": "false",
   "WELCOME": "false",
   "ADMIN_EVENTS": "false",
