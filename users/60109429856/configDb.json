@@ -49,5 +49,6 @@
   "AUTO_RECORDING": "true",
   "AUTO_DOWNLOAD": "false",
   "MODE": "public",
-  "ALWAYS_ONLINE": "false"
+  "ALWAYS_ONLINE": "false",
+  "prefix": "null"
 }
