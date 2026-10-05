@@ -48,6 +48,6 @@
   "AUTO_STICKER": "false",
   "AUTO_RECORDING": "false",
   "AUTO_DOWNLOAD": "false",
-  "MODE": "private",
+  "MODE": "public",
   "ALWAYS_ONLINE": "false"
 }
