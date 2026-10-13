@@ -30,7 +30,7 @@
   "READ_CMD": "false",
   "WELCOME": "false",
   "ADMIN_EVENTS": "false",
-  "ANTI_DELETE": "true",
+  "ANTI_DELETE": "false",
   "ANTI_DEL_PATH": "inbox",
   "ANTI_EDIT": "true",
   "ANTI_EDIT_PATH": "inbox",
